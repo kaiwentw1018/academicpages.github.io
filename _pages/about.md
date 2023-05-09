@@ -13,11 +13,14 @@ This is the front page of a website that is powered by the [academicpages templa
 Publications
 ======
 **2023**
+- **Yang KW**, Paris C, Gorman K, …, Ray SC. Factors associated with resistance to SARS-CoV-2 infection discovered using large-scale medical record data and machine learning. PloS one. 2023. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278466)
 
 **2022**
+- Mesinovic M, **Yang KW**. Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability. In 2022 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI) 2022 Sep 27 (pp. 01-05). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9926915)
+- Ghosheh GO, Alamad B, **Yang KW**, …, Shamout FE. Clinical prediction system of complications among patients with COVID-19: A development and validation retrospective multicentre study during first wave of the pandemic. Intell Based Med. 2022. [link](https://www.sciencedirect.com/science/article/pii/S2666521222000187)
 
 **2020**
-- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. [[link]](https://ieeexplore.ieee.org/abstract/document/9133547)
+- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. [link](https://ieeexplore.ieee.org/abstract/document/9133547)
 - Ibrahim L, Mesinovic M, **Yang KW**, Eid MA. Explainable Prediction of Acute Myocardial Infarction Using Machine Learning and Shapley Values. IEEE Access. 2020. [link](https://ieeexplore.ieee.org/abstract/document/9268965)
 - Akram MA, **Yang KW**, Ha S. Duty-Cycled Wireless Power Transmission for Millimeter-Sized Biomedical Implants. Electronics. 2020. [link](https://www.mdpi.com/922280)
 

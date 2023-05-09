@@ -29,6 +29,8 @@ Publications
 Honors and Awards
 ======
 - First Prize of GapSummit Biotech Voices of Tomorrow startup competition (2022)
+- NYU Honors Scholar (2020)
+- Phi Beta Kappa Scholar (2020)
 - First Prize of Siemens Healthineers Innovation Think Tank (2019)
 - Gold Medal Prize of iGEM Synthetic Biology Competition (2018)
 

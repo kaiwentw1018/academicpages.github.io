@@ -17,7 +17,7 @@ Publications
 **2022**
 
 **2020**
-- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. [link](https://ieeexplore.ieee.org/abstract/document/9133547)
+- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. [[link]](https://ieeexplore.ieee.org/abstract/document/9133547)
 - Ibrahim L, Mesinovic M, **Yang KW**, Eid MA. Explainable Prediction of Acute Myocardial Infarction Using Machine Learning and Shapley Values. IEEE Access. 2020. [link](https://ieeexplore.ieee.org/abstract/document/9268965)
 - Akram MA, **Yang KW**, Ha S. Duty-Cycled Wireless Power Transmission for Millimeter-Sized Biomedical Implants. Electronics. 2020. [link](https://www.mdpi.com/922280)
 

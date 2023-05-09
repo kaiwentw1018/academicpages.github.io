@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year MS student in Biomedical Engineering at Johns Hopkins University, where I work with Dr. Casey Overby Taylor. I am interested in levering data science to advance precision medicine. 
+I am a 2nd year MS student in Biomedical Engineering at Johns Hopkins University, where I work with [Dr. Casey Overby Taylor](https://tirilab.github.io). I am interested in levering data science to advance precision medicine. 
 
-Previously, I was an undergraduate student studying Electrical Engineering at New York University Abu Dhabi (*summa cum laude*). I worked with Dr. Sohmyung Ha on developing implantable neural interfaces and Dr. Farah Shamout on developing machine learning models to predict COVID complications.
+Previously, I was an undergraduate student studying Electrical Engineering at New York University Abu Dhabi (*summa cum laude*). I worked with [Dr. Sohmyung Ha](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/sohmyung-ha.html) on developing implantable neural interfaces, [Dr. Mohamad Eid](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mohamad-eid.html) on building models to predict acute myocardial infarction, and [Dr. Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) on developing machine learning models to predict COVID complications.
 
 Publications
 ======

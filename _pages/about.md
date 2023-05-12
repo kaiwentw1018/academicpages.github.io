@@ -12,6 +12,7 @@ I am a 2nd year MS student in Biomedical Engineering at Johns Hopkins University
 
 Previously, I was an undergraduate student studying Electrical Engineering at New York University Abu Dhabi (*summa cum laude*). I worked with [Dr. Sohmyung Ha](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/sohmyung-ha.html) on developing implantable neural interfaces, [Dr. Mohamad Eid](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/mohamad-eid.html) on building models to predict acute myocardial infarction, and [Dr. Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) on developing machine learning models to predict COVID complications.
 
+
 Publications
 ======
 **2023**
@@ -26,6 +27,7 @@ Publications
 - **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. \[[link]\](https://ieeexplore.ieee.org/abstract/document/9133547), [press release](https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2020/october/its-in-the-little-things.html)
 - Ibrahim L\*, Mesinovic M\*, **Yang KW**\*, Eid MA. Explainable Prediction of Acute Myocardial Infarction Using Machine Learning and Shapley Values. IEEE Access. 2020. \[[link]\](https://ieeexplore.ieee.org/abstract/document/9268965)
 - Akram MA, **Yang KW**, Ha S. Duty-Cycled Wireless Power Transmission for Millimeter-Sized Biomedical Implants. Electronics. 2020. \[[link](https://www.mdpi.com/922280)\]
+
 
 Honors and Awards
 ======

@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _reading list
+  # _talks
   - scope:
       path: ""
-      type: Reading List
+      type: talks
     values:
-      layout: Reading List
+      layout: talks
       author_profile: true
       share: true
 

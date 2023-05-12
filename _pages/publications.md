@@ -31,7 +31,12 @@ author_profile: true
 7. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
 8. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
 9. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
-10. 
+10. [A Random Walk Down Wall Street](https://bookshop.org/p/books/a-random-walk-down-wall-street-the-best-investment-guide-that-money-can-buy-burton-g-malkiel/18515450?ean=9781324051138), Burton G. Malkiel
+11. [When Breath Becomes Air](https://bookshop.org/p/books/when-breath-becomes-air-paul-kalanithi/7373634?ean=9780812988406), Paul Kalanithi 
+12. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
+13. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
+14. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
+15. 
 
 2021
 ======

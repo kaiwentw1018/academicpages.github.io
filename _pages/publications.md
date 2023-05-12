@@ -22,7 +22,16 @@ author_profile: true
 
 2022
 ======
-
+1. [Lean In](https://bookshop.org/p/books/lean-in-women-work-and-the-will-to-lead-sheryl-sandberg/8631517?ean=9780385349949), Sheryl Sandberg
+2. [The Subtle Art of Not Giving a F\*ck](https://bookshop.org/p/books/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-mark-manson/6437681?ean=9780062457714), Mark Manson
+3. [Everything Is F\*cked](https://bookshop.org/p/books/everything-is-f-cked-mark-manson/8006390?ean=9780062956569), Mark Manson 
+4. [Grit](https://bookshop.org/p/books/grit-the-power-of-passion-and-perseverance-angela-duckworth/6700116?ean=9781501111112), Angela Duckworth
+5. [Educated](https://bookshop.org/p/books/educated-a-memoir-tara-westover/15280731?ean=9780399590528), Tara Westover
+6. [Still Alice](https://bookshop.org/p/books/still-alice-lisa-genova/586308?ean=9781439102817), Lisa Genova
+7. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
+8. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
+9. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
+10. 
 
 2021
 ======

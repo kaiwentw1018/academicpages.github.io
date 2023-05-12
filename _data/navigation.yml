@@ -2,6 +2,9 @@
 main:
   - title: "Research & Teaching"
     url: /research-teaching/   
+  
+  - title: "Work & Leadership"
+    url: /work-leadership/
 
   - title: "Reading List"
     url: /reading-list/

@@ -12,11 +12,17 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+2023
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+1. [Stolen Focus](https://bookshop.org/p/books/stolen-focus-why-you-can-t-pay-attention-and-how-to-think-deeply-again-johann-hari/16895371?ean=9780593138533), Johann Hari
+
+2022
+======
+
+
+2021
+======
+
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}

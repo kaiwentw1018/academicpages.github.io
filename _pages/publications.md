@@ -61,6 +61,9 @@ author_profile: true
 2020
 ======
 1. [Eat Pray Love](https://bookshop.org/p/books/eat-pray-love-one-woman-s-search-for-everything-across-italy-india-and-indonesia-elizabeth-gilbert/11694804?ean=9780143038412), Elizabeth Gilbert
+
+
+
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

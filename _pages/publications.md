@@ -55,6 +55,9 @@ author_profile: true
 1. [Eat Pray Love](https://bookshop.org/p/books/eat-pray-love-one-woman-s-search-for-everything-across-italy-india-and-indonesia-elizabeth-gilbert/11694804?ean=9780143038412), Elizabeth Gilbert
 2. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
 3. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
+4. [The Fault in Our Stars](https://bookshop.org/p/books/the-fault-in-our-stars-john-green/228779?ean=9780142424179), John Green
+5. [The Alchemist](https://bookshop.org/p/books/the-alchemist-paulo-coelho/6433883?ean=9780062315007), Paulo Coelho
+6. [Mutants](https://bookshop.org/p/books/mutants-on-genetic-variety-and-the-human-body-armand-marie-leroi/11651172?ean=9780142004821), Armand Marie Leroi
 
 
 <!-- {% for post in site.publications reversed %}

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Reading List"
-permalink: /publications/
+permalink: /reading_list/
 author_profile: true
 ---
 

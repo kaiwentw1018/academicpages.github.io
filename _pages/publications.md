@@ -48,16 +48,14 @@ author_profile: true
 26. [The Pianist](https://bookshop.org/p/books/the-pianist-seventy-fifth-anniversary-edition-the-extraordinary-true-story-of-one-man-s-survival-in-warsaw-1939-1945-wladyslaw-szpilman/9903797?ean=9781250249548), Wladyslaw Szpilman
 27. 
 
-2021
-======
+### 2021
 1. [Into Thin Air](https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785), Jon Krakauer et al.
 2. [A Random Walk Down Wall Street](https://bookshop.org/p/books/a-random-walk-down-wall-street-the-best-investment-guide-that-money-can-buy-burton-g-malkiel/18515450?ean=9781324051138), Burton G. Malkiel
 3. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
 4. [Everyday Is A Gift](https://bookshop.org/p/books/every-day-is-a-gift-a-memoir-tammy-duckworth/15718261?ean=9781538718513), Tammy Duckworth
 5. [Dare to Lead](https://bookshop.org/p/books/dare-to-lead-brave-work-tough-conversations-whole-hearts-brene-brown/9586434?ean=9780399592522), Brene Brown
 
-2020
-======
+### 2020
 1. [Eat Pray Love](https://bookshop.org/p/books/eat-pray-love-one-woman-s-search-for-everything-across-italy-india-and-indonesia-elizabeth-gilbert/11694804?ean=9780143038412), Elizabeth Gilbert
 
 

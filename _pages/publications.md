@@ -22,28 +22,33 @@ author_profile: true
 
 2022
 ======
-1. [Lean In](https://bookshop.org/p/books/lean-in-women-work-and-the-will-to-lead-sheryl-sandberg/8631517?ean=9780385349949), Sheryl Sandberg
-2. [The Subtle Art of Not Giving a F\*ck](https://bookshop.org/p/books/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-mark-manson/6437681?ean=9780062457714), Mark Manson
-3. [Everything Is F\*cked](https://bookshop.org/p/books/everything-is-f-cked-mark-manson/8006390?ean=9780062956569), Mark Manson 
-4. [Grit](https://bookshop.org/p/books/grit-the-power-of-passion-and-perseverance-angela-duckworth/6700116?ean=9781501111112), Angela Duckworth
-5. [Educated](https://bookshop.org/p/books/educated-a-memoir-tara-westover/15280731?ean=9780399590528), Tara Westover
-6. [Still Alice](https://bookshop.org/p/books/still-alice-lisa-genova/586308?ean=9781439102817), Lisa Genova
-7. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
-8. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
-9. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
-
-11. [When Breath Becomes Air](https://bookshop.org/p/books/when-breath-becomes-air-paul-kalanithi/7373634?ean=9780812988406), Paul Kalanithi 
-12. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
-13. 
-14. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
-15. [Whistle Blower](https://bookshop.org/p/books/whistleblower-my-unlikely-journey-to-silicon-valley-and-speaking-out-against-injustice-susan-fowler/12087734?ean=9780525560142), Susan Fowler
-16. [The Moment of Lift](https://bookshop.org/p/books/the-moment-of-lift-melinda-gates/19192697?ean=9781250257727), Melinda Gates
-17. [My Not So Perfect Life](https://bookshop.org/p/books/my-not-so-perfect-life-sophie-kinsella/7381513?ean=9780812987713), Sophie Kinsella
-18. [How Will You Measure Your Life](https://bookshop.org/p/books/how-will-you-measure-your-life-clayton-m-christensen/6430275?ean=9780062102416), James Allworth et al.
-19. [Rich Dad Poor Dad](https://bookshop.org/p/books/rich-dad-poor-dad-what-the-rich-teach-their-kids-about-money-that-the-poor-and-middle-class-do-not-robert-t-kiyosaki/8237641?ean=9781612680194), Robert T. Kiyosaki 
-20. [Tough Choices](https://www.amazon.com/Tough-Choices-Memoir-Carly-Fiorina/dp/159184181X), Carly Fiorina
-21. [The Pianist](https://bookshop.org/p/books/the-pianist-seventy-fifth-anniversary-edition-the-extraordinary-true-story-of-one-man-s-survival-in-warsaw-1939-1945-wladyslaw-szpilman/9903797?ean=9781250249548), Wladyslaw Szpilman
-22. 
+1. [How to Not Die Alone](https://bookshop.org/p/books/how-to-not-die-alone-the-surprising-science-that-will-help-you-find-love-logan-ury/15609677?ean=9781982120634), Logan Ury
+2. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
+3. [Atomic Habits](https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292), James Clear
+4. [Hidden Valley Road](https://bookshop.org/p/books/hidden-valley-road-inside-the-mind-of-an-american-family-robert-kolker/7365400?ean=9780385543767), Robert Kolker
+5. 
+6. 
+7. [Lean In](https://bookshop.org/p/books/lean-in-women-work-and-the-will-to-lead-sheryl-sandberg/8631517?ean=9780385349949), Sheryl Sandberg
+8. [The Subtle Art of Not Giving a F\*ck](https://bookshop.org/p/books/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life-mark-manson/6437681?ean=9780062457714), Mark Manson
+9. [Everything Is F\*cked](https://bookshop.org/p/books/everything-is-f-cked-mark-manson/8006390?ean=9780062956569), Mark Manson 
+10. [Grit](https://bookshop.org/p/books/grit-the-power-of-passion-and-perseverance-angela-duckworth/6700116?ean=9781501111112), Angela Duckworth
+11. [Educated](https://bookshop.org/p/books/educated-a-memoir-tara-westover/15280731?ean=9780399590528), Tara Westover
+12. [Still Alice](https://bookshop.org/p/books/still-alice-lisa-genova/586308?ean=9781439102817), Lisa Genova
+13. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
+14. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
+15. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
+16. [When Breath Becomes Air](https://bookshop.org/p/books/when-breath-becomes-air-paul-kalanithi/7373634?ean=9780812988406), Paul Kalanithi 
+17. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
+18. 
+19. 
+20. [Whistle Blower](https://bookshop.org/p/books/whistleblower-my-unlikely-journey-to-silicon-valley-and-speaking-out-against-injustice-susan-fowler/12087734?ean=9780525560142), Susan Fowler
+21. [The Moment of Lift](https://bookshop.org/p/books/the-moment-of-lift-melinda-gates/19192697?ean=9781250257727), Melinda Gates
+22. [My Not So Perfect Life](https://bookshop.org/p/books/my-not-so-perfect-life-sophie-kinsella/7381513?ean=9780812987713), Sophie Kinsella
+23. [How Will You Measure Your Life](https://bookshop.org/p/books/how-will-you-measure-your-life-clayton-m-christensen/6430275?ean=9780062102416), James Allworth et al.
+24. [Rich Dad Poor Dad](https://bookshop.org/p/books/rich-dad-poor-dad-what-the-rich-teach-their-kids-about-money-that-the-poor-and-middle-class-do-not-robert-t-kiyosaki/8237641?ean=9781612680194), Robert T. Kiyosaki 
+25. [Tough Choices](https://www.amazon.com/Tough-Choices-Memoir-Carly-Fiorina/dp/159184181X), Carly Fiorina
+26. [The Pianist](https://bookshop.org/p/books/the-pianist-seventy-fifth-anniversary-edition-the-extraordinary-true-story-of-one-man-s-survival-in-warsaw-1939-1945-wladyslaw-szpilman/9903797?ean=9781250249548), Wladyslaw Szpilman
+27. 
 
 2021
 ======
@@ -52,7 +57,10 @@ author_profile: true
 3. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
 4. [Everyday Is A Gift](https://bookshop.org/p/books/every-day-is-a-gift-a-memoir-tammy-duckworth/15718261?ean=9781538718513), Tammy Duckworth
 5. [Dare to Lead](https://bookshop.org/p/books/dare-to-lead-brave-work-tough-conversations-whole-hearts-brene-brown/9586434?ean=9780399592522), Brene Brown
-6. [How to Not Die Alone](https://bookshop.org/p/books/how-to-not-die-alone-the-surprising-science-that-will-help-you-find-love-logan-ury/15609677?ean=9781982120634), Logan Ury
+
+2020
+======
+1. [Eat Pray Love](https://bookshop.org/p/books/eat-pray-love-one-woman-s-search-for-everything-across-italy-india-and-indonesia-elizabeth-gilbert/11694804?ean=9780143038412), Elizabeth Gilbert
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

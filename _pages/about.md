@@ -24,8 +24,8 @@ Publications
 - Ghosheh GO, Alamad B, **Yang KW**, …, Shamout FE. Clinical prediction system of complications among patients with COVID-19: A development and validation retrospective multicentre study during first wave of the pandemic. Intell Based Med. 2022. \[[link](https://www.sciencedirect.com/science/article/pii/S2666521222000187)\]
 
 **2020**
-- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. \[[link]\](https://ieeexplore.ieee.org/abstract/document/9133547), [press release](https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2020/october/its-in-the-little-things.html)
-- Ibrahim L\*, Mesinovic M\*, **Yang KW**\*, Eid MA. Explainable Prediction of Acute Myocardial Infarction Using Machine Learning and Shapley Values. IEEE Access. 2020. \[[link]\](https://ieeexplore.ieee.org/abstract/document/9268965)
+- **Yang KW**, Oh K, Ha S. Challenges in Scaling Down of Free-Floating Implantable Neural Interfaces to Millimeter Scale. IEEE Access. 2020. \[[link](https://ieeexplore.ieee.org/abstract/document/9133547), [press release](https://nyuad.nyu.edu/en/news/latest-news/science-and-technology/2020/october/its-in-the-little-things.html)\]
+- Ibrahim L\*, Mesinovic M\*, **Yang KW**\*, Eid MA. Explainable Prediction of Acute Myocardial Infarction Using Machine Learning and Shapley Values. IEEE Access. 2020. \[[link](https://ieeexplore.ieee.org/abstract/document/9268965)\]
 - Akram MA, **Yang KW**, Ha S. Duty-Cycled Wireless Power Transmission for Millimeter-Sized Biomedical Implants. Electronics. 2020. \[[link](https://www.mdpi.com/922280)\]
 
 

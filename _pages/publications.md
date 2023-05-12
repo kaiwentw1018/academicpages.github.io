@@ -31,22 +31,28 @@ author_profile: true
 7. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
 8. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
 9. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
-10. [A Random Walk Down Wall Street](https://bookshop.org/p/books/a-random-walk-down-wall-street-the-best-investment-guide-that-money-can-buy-burton-g-malkiel/18515450?ean=9781324051138), Burton G. Malkiel
+
 11. [When Breath Becomes Air](https://bookshop.org/p/books/when-breath-becomes-air-paul-kalanithi/7373634?ean=9780812988406), Paul Kalanithi 
 12. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
-13. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
+13. 
 14. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
 15. [Whistle Blower](https://bookshop.org/p/books/whistleblower-my-unlikely-journey-to-silicon-valley-and-speaking-out-against-injustice-susan-fowler/12087734?ean=9780525560142), Susan Fowler
 16. [The Moment of Lift](https://bookshop.org/p/books/the-moment-of-lift-melinda-gates/19192697?ean=9781250257727), Melinda Gates
 17. [My Not So Perfect Life](https://bookshop.org/p/books/my-not-so-perfect-life-sophie-kinsella/7381513?ean=9780812987713), Sophie Kinsella
 18. [How Will You Measure Your Life](https://bookshop.org/p/books/how-will-you-measure-your-life-clayton-m-christensen/6430275?ean=9780062102416), James Allworth et al.
 19. [Rich Dad Poor Dad](https://bookshop.org/p/books/rich-dad-poor-dad-what-the-rich-teach-their-kids-about-money-that-the-poor-and-middle-class-do-not-robert-t-kiyosaki/8237641?ean=9781612680194), Robert T. Kiyosaki 
-20. 
+20. [Tough Choices](https://www.amazon.com/Tough-Choices-Memoir-Carly-Fiorina/dp/159184181X), Carly Fiorina
+21. [The Pianist](https://bookshop.org/p/books/the-pianist-seventy-fifth-anniversary-edition-the-extraordinary-true-story-of-one-man-s-survival-in-warsaw-1939-1945-wladyslaw-szpilman/9903797?ean=9781250249548), Wladyslaw Szpilman
+22. 
 
 2021
 ======
-
-
+1. [Into Thin Air](https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785), Jon Krakauer et al.
+2. [A Random Walk Down Wall Street](https://bookshop.org/p/books/a-random-walk-down-wall-street-the-best-investment-guide-that-money-can-buy-burton-g-malkiel/18515450?ean=9781324051138), Burton G. Malkiel
+3. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
+4. [Everyday Is A Gift](https://bookshop.org/p/books/every-day-is-a-gift-a-memoir-tammy-duckworth/15718261?ean=9781538718513), Tammy Duckworth
+5. [Dare to Lead](https://bookshop.org/p/books/dare-to-lead-brave-work-tough-conversations-whole-hearts-brene-brown/9586434?ean=9780399592522), Brene Brown
+6. [How to Not Die Alone](https://bookshop.org/p/books/how-to-not-die-alone-the-surprising-science-that-will-help-you-find-love-logan-ury/15609677?ean=9781982120634), Logan Ury
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

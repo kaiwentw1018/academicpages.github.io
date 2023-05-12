@@ -33,12 +33,8 @@ author_profile: true
 11. [Educated](https://bookshop.org/p/books/educated-a-memoir-tara-westover/15280731?ean=9780399590528), Tara Westover
 12. [Still Alice](https://bookshop.org/p/books/still-alice-lisa-genova/586308?ean=9781439102817), Lisa Genova
 13. [Born a Crime](https://bookshop.org/p/books/born-a-crime-stories-from-a-south-african-childhood-trevor-noah/6314082?ean=9780399588198), Trevor Noah
-14. [Outlieres](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
-15. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
+14. [Outliers](https://bookshop.org/p/books/outliers-the-story-of-success-malcolm-gladwell/16437709?ean=9780316017930), Malcolm Gladwell
 16. [When Breath Becomes Air](https://bookshop.org/p/books/when-breath-becomes-air-paul-kalanithi/7373634?ean=9780812988406), Paul Kalanithi 
-17. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
-18. 
-19. 
 20. [Whistle Blower](https://bookshop.org/p/books/whistleblower-my-unlikely-journey-to-silicon-valley-and-speaking-out-against-injustice-susan-fowler/12087734?ean=9780525560142), Susan Fowler
 21. [The Moment of Lift](https://bookshop.org/p/books/the-moment-of-lift-melinda-gates/19192697?ean=9781250257727), Melinda Gates
 22. [My Not So Perfect Life](https://bookshop.org/p/books/my-not-so-perfect-life-sophie-kinsella/7381513?ean=9780812987713), Sophie Kinsella
@@ -46,7 +42,7 @@ author_profile: true
 24. [Rich Dad Poor Dad](https://bookshop.org/p/books/rich-dad-poor-dad-what-the-rich-teach-their-kids-about-money-that-the-poor-and-middle-class-do-not-robert-t-kiyosaki/8237641?ean=9781612680194), Robert T. Kiyosaki 
 25. [Tough Choices](https://www.amazon.com/Tough-Choices-Memoir-Carly-Fiorina/dp/159184181X), Carly Fiorina
 26. [The Pianist](https://bookshop.org/p/books/the-pianist-seventy-fifth-anniversary-edition-the-extraordinary-true-story-of-one-man-s-survival-in-warsaw-1939-1945-wladyslaw-szpilman/9903797?ean=9781250249548), Wladyslaw Szpilman
-27. 
+27. [Lost Connections](https://bookshop.org/p/books/lost-connections-why-you-re-depressed-and-how-to-find-hope-johann-hari/573154?ean=9781632868312), Johann Hari
 
 ### 2021
 1. [Into Thin Air](https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785), Jon Krakauer et al.
@@ -57,7 +53,8 @@ author_profile: true
 
 ### 2020
 1. [Eat Pray Love](https://bookshop.org/p/books/eat-pray-love-one-woman-s-search-for-everything-across-italy-india-and-indonesia-elizabeth-gilbert/11694804?ean=9780143038412), Elizabeth Gilbert
-
+2. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
+3. [Becoming](https://bookshop.org/p/books/becoming-michelle-obama/266233?ean=9781524763145), Michelle Obama
 
 
 <!-- {% for post in site.publications reversed %}

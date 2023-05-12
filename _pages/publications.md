@@ -36,7 +36,12 @@ author_profile: true
 12. [Cutting for Stone](https://bookshop.org/p/books/cutting-for-stone-abraham-verghese/586123?ean=9780375714368), Abraham Verghese
 13. [Getting More](https://bookshop.org/p/books/getting-more-how-you-can-negotiate-to-succeed-in-work-and-life-stuart-diamond/8782853?ean=9780307716903), Stuart Diamond
 14. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
-15. 
+15. [Whistle Blower](https://bookshop.org/p/books/whistleblower-my-unlikely-journey-to-silicon-valley-and-speaking-out-against-injustice-susan-fowler/12087734?ean=9780525560142), Susan Fowler
+16. [The Moment of Lift](https://bookshop.org/p/books/the-moment-of-lift-melinda-gates/19192697?ean=9781250257727), Melinda Gates
+17. [My Not So Perfect Life](https://bookshop.org/p/books/my-not-so-perfect-life-sophie-kinsella/7381513?ean=9780812987713), Sophie Kinsella
+18. [How Will You Measure Your Life](https://bookshop.org/p/books/how-will-you-measure-your-life-clayton-m-christensen/6430275?ean=9780062102416), James Allworth et al.
+19. [Rich Dad Poor Dad](https://bookshop.org/p/books/rich-dad-poor-dad-what-the-rich-teach-their-kids-about-money-that-the-poor-and-middle-class-do-not-robert-t-kiyosaki/8237641?ean=9781612680194), Robert T. Kiyosaki 
+20. 
 
 2021
 ======

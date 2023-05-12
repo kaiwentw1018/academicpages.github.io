@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Research & Teaching"
+    url: /research-teaching/   
+
   - title: "Reading List"
     url: /reading-list/
 
 #   - title: "Talks"
 #     url: /talks/    
-
-  - title: "Experiences"
-    url: /experiences/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/

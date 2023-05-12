@@ -12,15 +12,14 @@ author_profile: true
 
 {% include base_path %}
 
-**2023
+### 2023
 1. [Stolen Focus](https://bookshop.org/p/books/stolen-focus-why-you-can-t-pay-attention-and-how-to-think-deeply-again-johann-hari/16895371?ean=9780593138533), Johann Hari
 2. [Attached](https://bookshop.org/p/books/attached-the-new-science-of-adult-attachment-and-how-it-can-help-you-find-and-keep-love-amir-levine/6718109?ean=9781585429134), Amir Levine & Rachel Heller
 3. [The Psychology of Money](https://bookshop.org/p/books/the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/14357913?ean=9780857197689), Morgan Housel
 4. [The Compound Effect](https://bookshop.org/p/books/the-compound-effect-10th-anniversary-edition-jumpstart-your-income-your-life-your-success-darren-hardy/7899529?ean=9780306924637), Darren Hardy
 5. [Make Your Bed](https://bookshop.org/p/books/make-your-bed-little-things-that-can-change-your-life-and-maybe-the-world-william-h-mcraven/15285924?ean=9781455570249), William H McRaven
 
-2022
-======
+### 2022
 1. [How to Not Die Alone](https://bookshop.org/p/books/how-to-not-die-alone-the-surprising-science-that-will-help-you-find-love-logan-ury/15609677?ean=9781982120634), Logan Ury
 2. [The Price We Pay](https://bookshop.org/p/books/the-price-we-pay-what-broke-american-health-care-and-how-to-fix-it-marty-makary/8556230?ean=9781635575910), Marty Makary
 3. [Atomic Habits](https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292), James Clear

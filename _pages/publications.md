@@ -12,8 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-2023
-======
+**2023
 1. [Stolen Focus](https://bookshop.org/p/books/stolen-focus-why-you-can-t-pay-attention-and-how-to-think-deeply-again-johann-hari/16895371?ean=9780593138533), Johann Hari
 2. [Attached](https://bookshop.org/p/books/attached-the-new-science-of-adult-attachment-and-how-it-can-help-you-find-and-keep-love-amir-levine/6718109?ean=9781585429134), Amir Levine & Rachel Heller
 3. [The Psychology of Money](https://bookshop.org/p/books/the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/14357913?ean=9780857197689), Morgan Housel

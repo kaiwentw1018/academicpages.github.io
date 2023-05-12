@@ -15,7 +15,7 @@ Previously, I was an undergraduate student studying Electrical Engineering at Ne
 Publications
 ======
 **2023**
-- 
+- Juandalyn CB\*, **Yang KW**\*, Lkhagvajav Z, ..., Taylor CO. Designing Software for Genomics Medicine Service Leaders to Engage Stakeholders. 2023 IEEE International Conference on Healthcare Informatics (ICHI). 2023.
 - **Yang KW**\*, Paris C\*, Gorman K\*, …, Ray SC. Factors associated with resistance to SARS-CoV-2 infection discovered using large-scale medical record data and machine learning. PloS one. 2023. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278466), [JHU press release](https://www.bme.jhu.edu/news-events/news/research-team-creates-statistical-model-to-predict-covid-19-resistance/), [news](https://www.thebaltimorebanner.com/community/public-health/johns-hopkins-covid-19-super-dodgers-O4XDOTIL3JFHTAQUS7ICRMEWTU/)
 
 **2022**

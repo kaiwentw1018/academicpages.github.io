@@ -9,9 +9,10 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-## Research
+## Research Experience
+- 
 
-#### Publications
+## Publications
 **2023**
 - Juandalyn CB\*, **Yang KW**\*, Lkhagvajav Z, ..., Taylor CO. Designing Software for Genomics Medicine Service Leaders to Engage Stakeholders. 2023 IEEE International Conference on Healthcare Informatics (ICHI). 2023.
 - **Yang KW**\*, Paris C\*, Gorman K\*, …, Ray SC. Factors associated with resistance to SARS-CoV-2 infection discovered using large-scale medical record data and machine learning. PloS one. 2023. \[[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278466), [press release](https://www.bme.jhu.edu/news-events/news/research-team-creates-statistical-model-to-predict-covid-19-resistance/), [news](https://www.thebaltimorebanner.com/community/public-health/johns-hopkins-covid-19-super-dodgers-O4XDOTIL3JFHTAQUS7ICRMEWTU/)\]
@@ -26,5 +27,7 @@ redirect_from:
 - Akram MA, **Yang KW**, Ha S. Duty-Cycled Wireless Power Transmission for Millimeter-Sized Biomedical Implants. Electronics. 2020. \[[link](https://www.mdpi.com/922280)\]
 
 
-## Teaching
+## Teaching Experience
+2022 Aug-2023 May: *Precision Care Medicine Course* at Johns Hopkins University - **Teaching Assistant** 
+
 Precision Care Medicine is a two-semester project-based learning course. Projects will use methods of machine learning and mechanistic and statistical modeling to develop novel data-driven solutions to important health care problems that arise in anesthesiology and critical care medicine. The scope of such problems is vast, and few have been approached before. 

@@ -10,7 +10,9 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 ## Research Experience
-- 
+- Aug 2021-Present: Johns Hopkins University, Institute of Computational Medicine (Baltimore, USA) - Lead Project Coordinator, Graduate Research Assistant
+- Jun 2020-Oct 2020: 
+- Jun 2019-Jul 2020: 
 
 ## Publications
 **2023**
